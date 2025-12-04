@@ -65,7 +65,7 @@ const countdown = function (_config) {
 
         if (distance < 0) {
             $("#countdown").innerHTML =
-                '<h1 class="wrapper" >С НОВЫМ ГОДОМ</h1>';
+                '<h1 class="wrapper" >УРА, STEM!!</h1>';
         }
     };
 
